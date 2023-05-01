@@ -1147,9 +1147,3 @@ class cek_file:
 			print(m+"#"+q+" MAAF SEVER DARK-FB SEDANG MAINTENANCE, KAMI AKAN KEMBALI :D")
 			os.system('git pull')
 			quit()
-if "hai" == "hai":
-	cek_file()
-	try:cek = json.loads(open(".data/sensi.json","r").read())
-	except:os.sys.exit("* Makanya Jangan Rikod Sc Orang")
-	folder()
-	menu().daftar_menu()
