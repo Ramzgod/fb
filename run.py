@@ -1149,7 +1149,6 @@ class cek_file:
 			quit()
 if "hai" == "hai":
 	cek_file()
-	globalz()
 	try:cek = json.loads(open(".data/sensi.json","r").read())
 	except:os.sys.exit("* Makanya Jangan Rikod Sc Orang")
 	folder()
