@@ -350,7 +350,7 @@ def banner():
 [bold red]      ▄▄▄▄     [bold white] \ \ / /\ \ / /|___  /|  _  || \ | |
 [bold white]      ▀▀▀▀  [bold red]     \ V /  \ V /    / / | | | ||  \| |        [bold green]PremiumXD
 [bold red]                 /   \   \ /    / /  | | | || . ` |        [bold cyan]By XyzonXD
-[bold cyan]                / /^\ \  | |  ./ /___\ \_/ /| |\  |        [bold white]V.2.5
+[bold cyan]                / /^\ \  | |  ./ /___\ \_/ /| |\  |        [bold white]V.2.6
 [bold cyan]                \/   \/  \_/  \_____/ \___/ \_| \_/
                  [bold red]▪︎[bold yellow]▪︎[bold green]▪︎[bold cyan] XYZON [bold yellow]MULTI [bold green]BRUTE [bold red]FORCE [bold red]▪︎[bold yellow]▪︎[bold green]▪︎
              """,width=90,title=f"[bold red][[bold cyan] By [bold green]Xyzon Dev [bold red]]",subtitle=f"[bold red][[bold cyan] SELAMAT DATANG DI LAYANAN KAMI BOSSKU [bold red]]",style=f"bold red"))
@@ -361,7 +361,7 @@ def logo():
 [bold red]      ▄▄▄▄    [bold white] /  __ \|  _  ||  _  || | / /|_   _||  ___|/  ___|
 [bold white]      ▀▀▀▀  [bold red]   | /  \/| | | || | | || |/ /   | |  | |__  \ `--.       [bold green]PremiumXD
 [bold red]               | |    | | | || | | ||    \   | |  |  __|  `--. \      [bold cyan]By XyzonXD
-[bold cyan]               | \__/\\\_/ / \ \_/ /| |\  \ _| |_ | |___ /\__/ /      [bold white]V.2.5
+[bold cyan]               | \__/\\\_/ / \ \_/ /| |\  \ _| |_ | |___ /\__/ /      [bold white]V.2.6
 [bold cyan]                \____/ \___/  \___/ \_| \_/ \___/ \____/ \____/ 
                  [bold red]▪︎[bold yellow]▪︎[bold green]▪︎[bold cyan] XYZON [bold yellow]MULTI [bold green]BRUTE [bold red]FORCE [bold red]▪︎[bold yellow]▪︎[bold green]▪︎
              """,width=90,title=f"[bold red][[bold cyan] By [bold green]Xyzon Dev [bold red]]",subtitle=f"[bold red][[bold cyan] SELAMAT DATANG DI LAYANAN KAMI BOSSKU [bold red]]",style=f"bold red"))
@@ -612,6 +612,7 @@ def lacak_ip():
     jalan(" \x1b[1;97m[\x1b[1;92m+\x1b[1;97m]\x1b[1;93m \x1b[1;96mProvider : \x1b[1;93m" + sp)
     jalan(" \x1b[1;97m[\x1b[1;92m+\x1b[1;97m]\x1b[1;93m \x1b[1;96m Link Google Maps :" + ma)
     jalan(" \x1b[1;97m[\x1b[1;92m+\x1b[1;97m]\x1b[1;93m \x1b[1;96mInfo Lengkap : http://ip-api.com/#" + ip)
+    
     sayangku = input(p+""+P+" ["+O+" Tekan Enter "+P+"] ")
     back()
 #------------------[ CRACK NOMOR ]-------------------# 
@@ -638,7 +639,7 @@ def doa_halal():
 \x1b[1;97m[\x1b[1;92m+\x1b[1;97m]\x1b[1;93m \x1b[1;96m Versi Latin Stay Halal : [bold cyan]Allaahumma innii zholamtu nafsi zhulman katsiiron, wa laa yaghfirudz-dzunuuba illaa anta, faghfir lii maghfirotan min 'indika, warhamni, innaka antal ghofuurur-rahim''',title=f'[ Doa Sebelum Crack ]',subtitle_align='center',padding=1,style='bold red'))
 ###---------[ CRACK DARI KOMEN ]---------- ###
 def komen():
-	cetak(panel(f"[bold cyan]Pastikan Akun Target Yang Di Pilih Bersifat Publik Jangan Private",width=90,title=f"[bold red][[bold green] Crack Komen [bold red]]",style=f"bold red"))
+	cetak(panel(f"[bold cyan]   Pastikan Akun Target Yang Di Pilih Bersifat Publik Jangan Private",width=90,title=f"[bold red][[bold green] Crack Komen [bold red]]",style=f"bold red"))
 	ide = input(f' \x1b[1;97m[\x1b[1;92m+\x1b[1;97m]\x1b[1;93m \x1b[1;96mMasukan Id Postingan : \x1b[1;97m')
 	url = 'https://mbasic.facebook.com/'+ide
 	try:get_komen(url)
