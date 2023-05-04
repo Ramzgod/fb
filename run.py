@@ -489,7 +489,7 @@ def menu(my_name,my_id):
 	ip = requests.get("https://api.ipify.org").text
 	cetak(panel(f'[bold cyan]Terima Kasih Kepada [bold green]Xyzon Dev[bold cyan] Yang Telah Membuat Script Ini [bold yellow]Xyzon Multi Brute Force',width=90,style=f"bold red"))
 	cetak(panel(f'[bold white][[bold green]•[/][bold white]][/] [bold cyan]Username : [bold yellow]{my_name}[/]\n[bold white][[bold green]•[/][bold white]][/] [bold cyan]User Idz : [bold yellow]{my_id}[/]\n[bold white][[bold green]•[/][bold white]][/] [bold cyan]User Ip  : [bold yellow]{ip}[/][/][bold white]\n[bold white][[bold green]•[/][bold white]][/] [bold cyan]Tanggal  : [bold yellow]{tgl} {bln} {thn}[/][/][bold white]\n[[bold green]•[/][bold white]][/] [bold cyan]Status   : [bold green]Premium ',width=90,title=f"[bold red][[bold green] {Definisi__Waktu()} [bold red]]",style=f"bold red"))
-	cetak(panel(f'[bold white][[bold green]01[/][bold white]][/] [bold cyan]Crack ID From Pubilc Friends [bold white][[bold green] ON [bold white]][/]\n[bold white][[bold green]02[/][bold white]][/] [bold cyan]Crack ID From Random Massal [bold white][[bold green] ON [bold white]][/]\n[bold white][[bold green]03[/][bold white]][/] [bold cyan]Crack ID From Username [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]04[/][bold white]][/] [bold cyan]Crack ID From Member Grup [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]05[/][bold white]][/] [bold cyan]Crack ID From Total Followers [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]06[/][bold white]][/] [bold cyan]Crack ID From Email Target [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]07[/][bold white]][/] [bold cyan]Crack ID From File Kita [bold white][[bold green] ON [bold white]][/]\n[bold white][[bold green]08[/][bold white]][/] [bold cyan]Crack ID From Nomor Target [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]09[/][bold white]][/] [bold cyan]Crack ID From Komen Target [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]10[/][bold white]][/] [bold cyan]Check Hasil Crack [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]11[/][bold white]][/] [bold cyan]Chekpoint Detector [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]12[/][bold white]][/] [bold cyan]Get Headers [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]13[/][bold white]][/] [bold cyan]Lacak IP Target [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]14[/][bold white]][/] [bold cyan]Spam Sms Target [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]15[/][bold white]][/] [bold cyan]Spam WhatsApp Target [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]16[/][bold white]][/] [bold cyan]Ingfo Author [bold yellow]XMBF [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]17[/][bold white]][/] [bold cyan]Report Bug Script [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]RM[/][bold white]][/] [bold cyan]Remove Data Login [bold white][[bold green] ON [bold white]][/]\n[bold white][[bold red]00[/][bold white]][/] [bold red]Hapus Cookies [bold white][[bold green] ON [bold white]][/]',width=90,title=f"[bold red][[bold green] List Menu [bold red]]",style=f"bold red"))
+	cetak(panel(f'[bold white][[bold green]01[/][bold white]][/] [bold cyan]Crack ID From Pubilc Friends [bold white][[bold green] ON [bold white]][/]\n[bold white][[bold green]02[/][bold white]][/] [bold cyan]Crack ID From Random Massal [bold white][[bold green] ON [bold white]][/]\n[bold white][[bold green]03[/][bold white]][/] [bold cyan]Crack ID From Username [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]04[/][bold white]][/] [bold cyan]Crack ID From Member Grup [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]05[/][bold white]][/] [bold cyan]Crack ID From Total Followers [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]06[/][bold white]][/] [bold cyan]Crack ID From Email Target [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]07[/][bold white]][/] [bold cyan]Crack ID From File Kita [bold white][[bold green] ON [bold white]][/]\n[bold white][[bold green]08[/][bold white]][/] [bold cyan]Crack ID From Nomor Target [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]09[/][bold white]][/] [bold cyan]Crack ID From Komen Target [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]10[/][bold white]][/] [bold cyan]Check Hasil Crack [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]11[/][bold white]][/] [bold cyan]Chekpoint Detector [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]12[/][bold white]][/] [bold cyan]Get Headers [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]13[/][bold white]][/] [bold cyan]Lacak IP Target [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]14[/][bold white]][/] [bold cyan]Spam Sms Target [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]15[/][bold white]][/] [bold cyan]Spam WhatsApp Target [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]16[/][bold white]][/] [bold cyan]Bot Komen Facebook [bold white][[bold green] ON [bold white]][bold white]\n[[bold green]17[/][bold white]][/] [bold cyan]Ingfo Author [bold yellow]XMBF [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]18[/][bold white]][/] [bold cyan]Report Bug Script [bold white][[bold green] ON [bold white]]\n[bold white][[bold green]RM[/][bold white]][/] [bold cyan]Remove Data Login [bold white][[bold green] ON [bold white]][/]\n[bold white][[bold red]00[/][bold white]][/] [bold red]Hapus Cookies [bold white][[bold green] ON [bold white]][/]',width=90,title=f"[bold red][[bold green] List Menu [bold red]]",style=f"bold red"))
 	cetak(panel(f'    [bold Red]Warning[bold cyan] Gunakan Script Ini Dengan Baik Jangan Di Salah Gunakan [bold green]By XyzonXD',width=90,title=f"[bold red][[bold green] Informasi Crack [bold red]]",style=f"bold red"))
 	_____xyzon___xd____ = input(f' {P}[{H}+{P}] \33[1;96mPilih Menu Crack : {P}')
 	if _____xyzon___xd____ in ['1','01']:
@@ -523,8 +523,10 @@ def menu(my_name,my_id):
 	elif _____xyzon___xd____ in('15','015'):
 		spam_wa()
 	elif _____xyzon___xd____ in('16','016'):
-		info_ngentod()
+		memeklovekontolmekarid()
 	elif _____xyzon___xd____ in('17','017'):
+		info_ngentod()
+	elif _____xyzon___xd____ in('18','018'):
 		cetak(panel(f"[bold cyan]Apapun Bug Pada Script Tolong Laporkan Kepada Saya Agar Bisa Mengembangkan Sc Ini Semakin Dikit Bugnya Semakin Baik Sc Ini , Anda Akan Di Arahkan Ke WhatsApp",width=90,title=f"[bold red][[bold green] Report Bug [bold red]]",style=f"bold red"))
 		os.system("xdg-open https://wa.me/+6282183929059?text=Asalammualikum+Bang+Saya+Mau+Melaporkan+Bug+Pada+Sc+Mu+Bang")
 		time.sleep(3)
@@ -554,6 +556,35 @@ def siu():
 	start()
 	get_data_web()
 	akhir()
+#------------------[ DEFF BOT SHARE ]-------------------#
+def memeklovekontolmekarid():
+	try:
+		token = open('.token.txt','r').read()
+		cok = open('.cok.txt','r').read()
+		cookie = {"cookie":cok}
+	except IOError:
+		print(' \x1b[1;97m[\x1b[1;92m+\x1b[1;97m] \x1b[1;91mCookies Kadaluarsa ')
+		time.sleep(5)
+		login()
+	link = input(f" \x1b[1;97m[\x1b[1;92m+\x1b[1;97m] \x1b[1;96mMasukan Link Postingan : ")
+	jumlah = int(input(f" \x1b[1;97m[\x1b[1;92m+\x1b[1;97m] \x1b[1;96mMasukan Share : "))
+	memek = datetime.now()
+	try:
+		n = 0
+		header = {"authority":"graph.facebook.com","cache-control":"max-age=0","sec-ch-ua-mobile":"?0","user-agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Mobile/15E148 Safari/604.1"}
+		for x in range(jumlah):
+			n+=1
+			post = ses.post(f"https://graph.facebook.com/v13.0/me/feed?link={link}&published=0&access_token={token}",headers=header, cookies=cookie).text
+			data = json.loads(post)
+			if "id" in post:
+				rianxyz = str(datetime.now()-memek).split('.')[0]
+				print(f'\r \x1b[1;97m[\x1b[1;92m+\x1b[1;97m] \x1b[1;96mBerhasil MengShare {n} Postingan',end='')
+				sys.stdout.flush()
+			else:
+				print("\n")
+				cetak(nel(f'[bold red]Bot Auto Share Telah Berhenti Mungkin Di Karna Cookie Telah Mokad',width=90,padding=0,style='bold white'));exit()
+	except requests.exceptions.ConnectionError:
+		print(f"\n \x1b[1;97m[\x1b[1;92m+\x1b[1;97m] \x1b[1;96mAnda Tidak Terhubung Ke Internet");exit()    
 #----------------------[ LACAK IP ]----------------------#
 def lacak_ip():
     b = input(f' \x1b[1;97m[\x1b[1;92m?\x1b[1;97m]\x1b[1;93m \x1b[1;96mMasukkan IP Target : \x1b[1;93m')
@@ -1723,16 +1754,15 @@ def passwrd():
 					pool.submit(crackmbasic,idf,pwv)
 		print('')
 	print(M+' <------------------------------------------------------------------------------------->')
-	print(f'{x}  [{h}•{x}]{h} \33[1;96mCrack Telah Selesai,Kalo Dapet \33[1;96mOK{x} \33[1;96mJangan Lupa Bagi Dua Ama Gua')
+	print(f'{x}  [{h}•{x}]{h} \33[1;96mCrack Telah Selesai,Kalo Dapet \33[1;92mOK{x} \33[1;96mJangan Lupa Bagi Dua Ama Gua')
 	print(f'{x}  [{h}•{x}]{h} OK : {h}%s '%(ok))
 	print(f'{x}  [{h}•{x}]{k} CP : {k}%s{x} '%(cp))
 	print('')
-	print('\x1b[1;97m[\x1b[1;92m?\x1b[1;97m]\x1b[1;93m \x1b[1;96mApakah Anda Ingin Crack Facebook Lagi Y/T')
-	xyzondsini = input('\x1b[1;97m[\x1b[1;92m?\x1b[1;97m]\x1b[1;93m \x1b[1;96mPilih : \x1b[1;93m')
+	xyzondsini = input('\x1b[1;97m[\x1b[1;92m?\x1b[1;97m]\x1b[1;93m \x1b[1;96mApakah Anda Ingin Crack Facebook Lagi Y/T : \x1b[1;93m')
 	if xyzondsini in ['y','Y']:
 		back()
 	else:
-		print(f'   {K}>>{O} Selamat Tinggal {P}| {H}Xyzon Dev {K} << ')
+		print(f'  {K}>>{O} Selamat Tinggal {P}| {H}Xyzon Dev {K} << ')
 		time.sleep(2)
 		exit()
 #--------------------[ METODE MOBILE ]-----------------#
@@ -2413,7 +2443,6 @@ class get_data_web:
         print('\n\n[SOURCE CODE POST REQUESTS]\n')
         print("url  = '%s'"%(url))
         print("requ = bs(requests.Session().get(url).content,'html.parser')")
-        print('head = {')
         for x,y in zip(head.keys(),head.values()):
             print('    %s%s: %s'%(x,' '*(29-len(x)),y))
         print('    }')
